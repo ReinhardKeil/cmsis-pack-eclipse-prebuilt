@@ -1,6 +1,8 @@
 ARM CMSIS-Pack for Eclipse
 ==========================
 
+My edits
+
 This repository contains prebuilt versions from  CMSIS-Pack for Eclipse plug-in.
 The latest source code for the plug-ins can be pulled form [GitHub].
 
